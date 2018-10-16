@@ -1,2 +1,6 @@
-# 土曜日６時と日曜日５時
-blood+と機動戦士ガンダムOO
+#アジャイル開発演習 2018.10.16
+  徳山高専
+  
+  泉 玲
+  
+  |![](drug_yakubutsu_mayaku_ranyou.png)|
