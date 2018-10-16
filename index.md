@@ -3,4 +3,4 @@
   
   泉 玲
   
-  |![](drug_yakubutsu_mayaku_ranyou.png)|
+  |(drug_yakubutsu_mayaku_ranyou.png)|
